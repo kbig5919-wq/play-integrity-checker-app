@@ -1,0 +1,39 @@
+{
+    "requestDetails": {
+        "requestPackageName": "gr.nikolasspyr.integritycheck",
+        "timestampMillis": "1767444989571",
+        "nonce": "bm3GxGNhG3S8SMNcR9VVsXSv7p09dWRPbocHf5H4Gh91b7OT6w=="
+    },
+    "appIntegrity": {
+        "appRecognitionVerdict": "PLAY_RECOGNIZED",
+        "packageName": "gr.nikolasspyr.integritycheck",
+        "certificateSha256Digest": [
+            "F5UrXPhnBbreh3Q_WjMe_kyYK_tNoNL9XXC_wjXPeeM"
+        ],
+        "versionCode": "22"
+    },
+    "deviceIntegrity": {
+        "deviceRecognitionVerdict": [
+            "MEETS_BASIC_INTEGRITY",
+            "MEETS_DEVICE_INTEGRITY"
+        ],
+        "recentDeviceActivity": {
+            "deviceActivityLevel": "LEVEL_1"
+        },
+        "deviceAttributes": {
+            "sdkVersion": 34
+        }
+    },
+    "accountDetails": {
+        "appLicensingVerdict": "LICENSED"
+    },
+    "environmentDetails": {
+        "playProtectVerdict": "NO_ISSUES",
+        "appAccessRiskVerdict": {
+            "appsDetected": [
+                "KNOWN_INSTALLED",
+                "UNKNOWN_INSTALLED"
+            ]
+        }
+    }
+}
